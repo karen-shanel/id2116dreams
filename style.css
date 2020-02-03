@@ -1,9 +1,18 @@
 #designerprofile1 {
-    padding-left: 10px;
+    padding-left: 50px;
 }
 
 #dumpling {
+    float: center;
+}
+
+#bubbletea {
+    float: center;
+}
+
+#foreo {
     float: right;
+    padding-right:50px;
 }
 
 #logo {
