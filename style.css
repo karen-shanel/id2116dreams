@@ -1,3 +1,7 @@
 #designerprofile1 {
-text-align: center
+    transform:rotate(-20)
+}
+
+#logo {
+    text-align: center;
 }
