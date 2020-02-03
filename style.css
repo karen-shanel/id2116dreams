@@ -1,5 +1,7 @@
 #designerprofile1 {
-    transform:rotate(-20)
+    transform:rotate(-20);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #logo {
