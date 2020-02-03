@@ -1,7 +1,9 @@
 #designerprofile1 {
-    transform:rotate(-20deg);
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 10px;
+}
+
+#dumpling {
+    float: right;
 }
 
 #logo {
