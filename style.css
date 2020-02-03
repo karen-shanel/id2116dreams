@@ -7,16 +7,20 @@
     float: center;
     padding-left: 350px;
     padding-top: 50px;
-    transform: rotate(20deg);
+    transform: rotate(-20deg);
 }
 
 #bubbletea {
     float: center;
+    padding-right: 350px;
+    padding-top: 50px;
+    transform: rotate(10deg);
 }
 
 #foreo {
-    float: right;
+    float: center;
     padding-right:50px;
+    padding-top: 50 px;
 }
 
 #logo {
