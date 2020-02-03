@@ -1,13 +1,14 @@
 #designerprofile1 {
     padding-left: 50px;
     padding-top: 50 px;
+    min-width: auto;
 }
 
 #dumpling {
     float: center;
     padding-left: 350px;
     padding-top: 50px;
-    transform: rotate(-40deg);
+    min-width: auto;
 }
 
 #bubbletea {
