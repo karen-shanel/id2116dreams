@@ -1,10 +1,12 @@
 #designerprofile1 {
     padding-left: 50px;
+    padding-top: 50 px;
 }
 
 #dumpling {
     float: center;
-    padding-left: 100px;
+    padding-left: 350px;
+    padding-top: 100px;
 }
 
 #bubbletea {
@@ -18,4 +20,5 @@
 
 #logo {
     text-align: center;
+    clear: all;
 }
