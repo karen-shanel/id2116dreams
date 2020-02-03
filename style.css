@@ -4,27 +4,3 @@
     min-width: auto;
 }
 
-#dumpling {
-    float: center;
-    padding-left: 350px;
-    min-width: auto;
-}
-
-#bubbletea {
-    float: center;
-    padding-right: 350px;
-    padding-top: 50px;
-    transform: rotate(10deg);
-    transform: translateX(20px);
-}
-
-#foreo {
-    float: right;
-    padding-right:50px;
-    padding-top: 50 px;
-}
-
-#logo {
-    text-align: center;
-    clear: both;
-}
