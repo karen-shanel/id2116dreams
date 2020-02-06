@@ -26,10 +26,6 @@ h2 {
     justify-content: center;
   }
 
-  #icons {
-      text-align: center;
-  }
-
   .designerprofile1-svg {
       background-image: url('graphics/SVG/designerprofile1.svg');
     transition: all 1s ease-in-out;
