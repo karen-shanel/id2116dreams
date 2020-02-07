@@ -30,3 +30,10 @@ h3 {
 #footer {
     text-align: center;
 }
+
+iframe {
+    height: 300px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+  }
