@@ -23,7 +23,8 @@ h3 {
     display: table;
   }
 
-.footer {
+#footer {
+    clear: both;
     text-align: center;
     font-size: small;
 }
