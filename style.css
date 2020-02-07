@@ -46,8 +46,6 @@ iframe {
   }
 
 .icons {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+    margin: auto;
+    width: 100%;
 } 
