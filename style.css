@@ -23,7 +23,7 @@ h3 {
     display: table;
   }
 
-#icons {
+.icons {
     text-align: center;
 }
 
@@ -31,18 +31,22 @@ h3 {
     text-align: center;
 }
 
+.designerprofile {
+    width: 340px;
+    height: 340px;
+    background: url(graphics/SVG/designerprofile1.svg);
+    background-size: contain;
+    display: block;
+}
+
+.no-svg .designerprofile {
+    // fallback
+    background-image: url(graphics/SVG/designerprofile2.svg);
+}
+
 iframe {
     height: 400px;
     width: 400x;
     resize: both;
     overflow: auto;
-  }
-
-  .expand-link .icon-contract {
-      display: none;
-  }
-
-  .expand-link:hover .icon-contract,
-  .expand-link:active .icon-contract {
-      display:block;
   }
