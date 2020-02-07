@@ -23,21 +23,13 @@ h3 {
     display: table;
   }
 
+#icons {
+    text-align: center;
+}
+
   #footer {
       font-family: sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
-  .designerprofile1-svg {
-      background-image: url('graphics/SVG/designerprofile1.svg');
-    transition: all 1s ease-in-out;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-  }
-
-  .designerprofile1-svg article: :hover .designerprofile1-svg P{
-      background-image: url('graphics/SVG/designerprofile2.svg');
   }
