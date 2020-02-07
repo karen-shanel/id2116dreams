@@ -42,12 +42,11 @@ iframe {
 #designerprofile1 {
     height: 159px;
     width: 169px;
+    display: block;
 }
 
 #designerprofile1:hover {
     background-image: url('graphics/SVG/designerprofile2.svg');
         height: 159px;
         width: 169px;
-        align-content: center;
-        vertical-align: middle;
 }
