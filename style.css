@@ -48,5 +48,6 @@ iframe {
 
 .icons {
     display: block;
-    text-align: center;
+    position: fixed;
+    text-align: justify;
 } 
