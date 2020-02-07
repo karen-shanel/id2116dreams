@@ -37,3 +37,12 @@ iframe {
     resize: both;
     overflow: auto;
   }
+
+  .expand-link .icon-contract {
+      display: none;
+  }
+
+  .expand-link:hover .icon-contract,
+  .expand-link:active .icon-contract {
+      display:block;
+  }
