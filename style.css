@@ -40,12 +40,12 @@ iframe {
 } 
 
 #test1 {
-    height: 151px;
-    width: 169px;
+    height: auto;
+    width: auto;
 }
 
 #test1:hover {
     background-image: url('graphics/png/test2.png');
-    height: 151px;
-    width: 169px;
+    height: auto;
+    width: auto;
 }
