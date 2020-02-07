@@ -39,13 +39,13 @@ iframe {
     object-position: center;
 } 
 
-#test1 {
-    height: auto;
-    width: auto;
+#designerprofile1 {
+    height: 151px;
+    width: 169px;
 }
 
 #test1:hover {
-    background-image: url('graphics/png/test2.png');
-    height: auto;
-    width: auto;
+    background-image: url('graphics/SVG/designerprofile2.svg');
+    height: 151px;
+    width: 169px;
 }
