@@ -40,6 +40,7 @@ iframe {
 } 
 
 #designerprofile1 {
+    background-image: url(graphics/SVG/designerprofile1.svg);
     height: 159px;
     width: 169px;
 }
@@ -48,11 +49,4 @@ iframe {
     background-image: url('graphics/SVG/designerprofile2.svg');
         height: 159px;
         width: 169px;
-}
-
-#designerprofile1: hover {
-    background-image: url('graphics/SVG/designerprofile1.svg');
-    display: block;
-}
-
 }
