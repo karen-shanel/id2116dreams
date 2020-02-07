@@ -27,7 +27,7 @@ h3 {
     text-align: center;
 }
 
-.designerprofile {
+.designerprofile1 {
     width: 340px;
     height: 340px;
     background: url(graphics/SVG/designerprofile1.svg);
@@ -35,7 +35,7 @@ h3 {
     display: block;
 }
 
-.no-svg .designerprofile {
+.no-svg .designerprofile1 {
     // fallback
     background-image: url(graphics/SVG/designerprofile2.svg);
 }
