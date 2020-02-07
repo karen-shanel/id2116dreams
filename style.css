@@ -40,7 +40,7 @@ iframe {
 } 
 
 #designerprofile1:hover {
-    background-image: url('graphics/SVG/designerprofile2.svg');
+    content: url('graphics/SVG/designerprofile2.svg');
         height: 159px;
         width: 169px;
 }
