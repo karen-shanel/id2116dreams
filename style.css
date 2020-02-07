@@ -46,6 +46,5 @@ iframe {
 
 #designerprofile1:hover {
     background-image: url('graphics/SVG/designerprofile2.svg');
-    height: 151px;
-    width: 169px;
+    align-content: center;
 }
