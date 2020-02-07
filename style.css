@@ -40,12 +40,12 @@ iframe {
 } 
 
 #designerprofile1 {
-    height: 150px;
+    height: 159px;
     width: 169px;
 }
 
 #designerprofile1:hover {
     background-image: url('graphics/SVG/designerprofile2.svg');
-        height: 139px;
+        height: 159px;
         width: 169px;
 }
