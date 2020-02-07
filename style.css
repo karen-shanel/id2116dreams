@@ -48,4 +48,6 @@ iframe {
     background-image: url('graphics/SVG/designerprofile2.svg');
         height: 159px;
         width: 169px;
+        align-content: center;
+        vertical-align: middle;
 }
