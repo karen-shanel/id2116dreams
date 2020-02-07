@@ -29,19 +29,6 @@ h3 {
     font-size: small;
 }
 
-.designerprofile1 {
-    width: 340px;
-    height: 340px;
-    background: (graphics/SVG/designerprofile1.svg);
-    background-size: contain;
-    display: block;
-}
-
-.no-svg .designerprofile1 {
-    // fallback
-    background-image: url(graphics/SVG/designerprofile2.svg);
-}
-
 iframe {
     height: 400px;
     width: 400x;
@@ -51,3 +38,14 @@ iframe {
     display: block;
     object-position: center;
 } 
+
+#test1 {
+    height: 151px;
+    width: 169px;
+}
+
+#test1:hover {
+    background-image: url('graphics/png/test2.png');
+    height: 151px;
+    width: 169px;
+}
