@@ -47,8 +47,9 @@ iframe {
 
 #funtimes1:hover {
     content: url('graphics/SVG/funtimes2.svg');
-        height: 334px;
-        width: 197px;
+        height: 177px;
+        width: 104px;
+        scale: 147%;
 }
 
 #weeklyprogress1:hover {
