@@ -46,7 +46,7 @@ iframe {
     width: 400x;
   }
 
-.icons {
+.icons.column {
     display: block;
     position: fixed;
     text-align: justify;
