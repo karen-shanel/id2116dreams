@@ -32,7 +32,7 @@ h3 {
 .designerprofile1 {
     width: 340px;
     height: 340px;
-    background: url(graphics/SVG/designerprofile1.svg);
+    background: (graphics/SVG/designerprofile1.svg);
     background-size: contain;
     display: block;
 }
