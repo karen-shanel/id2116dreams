@@ -23,8 +23,9 @@ h3 {
     display: table;
   }
 
-#footer {
+.footer {
     text-align: center;
+    font-size: small;
 }
 
 .designerprofile1 {
