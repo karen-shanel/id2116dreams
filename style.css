@@ -27,9 +27,6 @@ h3 {
     text-align: center;
 }
 
-  #footer {
-      font-family: sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+footer {
+    text-align: center;
+}
