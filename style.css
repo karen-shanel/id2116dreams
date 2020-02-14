@@ -9,12 +9,17 @@ h2 {
 h3 {
     text-align: center;
 }
-
+/*https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/*/
 .column {
-    float: left;
-    width: 8%;
+    display: inline-block;
+
+  
+    width: 10%;
     padding: 15px;
     text-align: center;
+    object-position: center;
+    margin: 0 auto
+  
   }
   
   .row::after {
@@ -34,11 +39,18 @@ iframe {
     width: 400x;
   }
 
-.icons.column {
+.icons {
     display: block;
     object-position: center;
+    text-align: center;
+  
 } 
-
+.row {
+    display: block;
+    object-position: center;
+    text-align: center;
+ 
+} 
 #designerprofile1:hover {
     content: url('graphics/SVG/designerprofile2.svg');
         height: 151px;
