@@ -31,7 +31,11 @@ h3 {
 #footer {
     clear: both;
     text-align: center;
+    object-position: center;
+    margin: 0 auto;
     font-size: small;
+    position: static;
+    border: 3px solid;
 }
 
 iframe {
