@@ -28,7 +28,7 @@ h3 {
     display: table;
   }
 
-#footer {
+.footer {
     display: inline-block;
     text-align: center;
     object-position: center;
