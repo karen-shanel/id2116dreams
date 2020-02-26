@@ -72,7 +72,7 @@ iframe {
         width: 178px;
 }
 
-.weeklyprogress.h2{
-max-width: 80%;
-max-height: 80%;
+.weeklyprogress.body.h2{
+max-width: 50%;
+max-height: 50%;
 }
