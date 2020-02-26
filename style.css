@@ -55,21 +55,21 @@ iframe {
 } 
 #designerprofile1:hover {
     content: url('graphics/SVG/designerprofile2.svg');
-        height: 183px;
-        width: 206px;
+        height: 151px;
+        width: 169px;
 }
 
 #funtimes1:hover {
     content: url('graphics/SVG/funtimes2.svg');
-        height: 213px;
-        width: 208px;
+        height: 177px;
+        width: 104px;
         scale: 147%;
 }
 
 #weeklyprogress1:hover {
     content: url('graphics/SVG/weeklyprogress2.svg');
-        height: 202px;
-        width: 216px;
+        height: 167px;
+        width: 178px;
 }
 
 .weeklyprogress.body.h2{
