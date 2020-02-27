@@ -85,3 +85,24 @@ iframe {
     text-align: center;
     scale: 50%;
 }
+
+a:link {
+    color: #b7543d;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #b7543d;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #daaa76;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: #daaa76;
+    background-color: transparent;
+    text-decoration: underline;
+  }
