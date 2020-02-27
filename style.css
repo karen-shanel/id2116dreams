@@ -14,7 +14,7 @@ h3 {
     display: inline-block;
 
   
-    width: 15%;
+    width: 8%;
     padding: 20px;
     text-align: center;
     object-position: center;
@@ -76,4 +76,10 @@ iframe {
     text-align: center;
     object-position: center;
     margin: 0 auto
+}
+
+.weeklyprogress {
+    display: block;
+    object-position: center;
+    text-align: center;
 }
