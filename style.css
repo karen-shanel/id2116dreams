@@ -15,7 +15,7 @@ h3 {
 
   
     width: 10%;
-    padding: 15px;
+    padding: 20px;
     text-align: center;
     object-position: center;
     margin: 0 auto
@@ -70,4 +70,10 @@ iframe {
     content: url('graphics/SVG/weeklyprogress2.svg');
         height: 167px;
         width: 178px;
+}
+
+.karenandshanel {
+    text-align: center;
+    object-position: center;
+    margin: 0 auto
 }
