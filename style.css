@@ -76,3 +76,8 @@ iframe {
 max-width: 50%;
 max-height: 50%;
 }
+
+html, weeklyprogress, body {
+width: 30%;
+height: 30%;
+}
