@@ -73,13 +73,14 @@ iframe {
 }
 
 .karenandshanel {
+    display: inline-block;
     text-align: center;
     object-position: center;
     margin: 0 auto
 }
 
 .weeklyprogress {
-    display: block;
+    display: inline-block;
     object-position: center;
     text-align: center;
     scale: 50%;
