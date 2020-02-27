@@ -14,8 +14,8 @@ h3 {
     display: inline-block;
 
   
-    width: 8%;
-    padding: 20px;
+    width: 10%;
+    padding: 25px;
     text-align: center;
     object-position: center;
     margin: 0 auto
@@ -82,4 +82,5 @@ iframe {
     display: block;
     object-position: center;
     text-align: center;
+    scale: 50%;
 }
